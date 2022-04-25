@@ -1,0 +1,111 @@
+Genre From,Genre To,Strength Relationship
+Action,Adventure,10
+Action,Comedy,2
+Action,Crime,5
+Action,Drama,9
+Action,Fantasy,5
+Action,Mysterie,3
+Action,Romance,1
+Action,Satire,1
+Action,Science Fiction,7
+Action,Space Western,2
+Action,Superheroe,12
+Action,Thriller,2
+Adventure,Action,10
+Adventure,Animation,2
+Adventure,Comedy,4
+Adventure,Crime,3
+Adventure,Drama,5
+Adventure,Fantasy,5
+Adventure,Mysterie,3
+Adventure,Romance,1
+Adventure,Satire,1
+Adventure,Science Fiction,7
+Adventure,Space Western,2
+Adventure,Superheroe,7
+Adventure,Thriller,2
+Animation ,Adventure,2
+Animation ,Comedy,2
+Animation ,Fantasy,1
+Animation ,Satire,1
+Animation ,Science Fiction,1
+Animation ,Superheroe,1
+Comedy,Action,2
+Comedy,Adventure,4
+Comedy,Animation,2
+Comedy,Cringe,1
+Comedy,Drama,4
+Comedy,Fantasy,3
+Comedy,Satire,3
+Comedy,Science Fiction,3
+Comedy,Sitcom,3
+Comedy,Superheroe,3
+Crime,Action,5
+Crime,Adventure,3
+Crime,Drama,6
+Crime,Mafia,2
+Crime,Mysterie,3
+Crime,Serial,1
+Crime,Superheroe,4
+Crime,Thriller,2
+Cringe,Comedy,1
+Cringe,Cringe,1
+Cringe,Satire,1
+Cringe,Sitcom,1
+Drama,Action,9
+Drama,Adventure,5
+Drama,Comedy,4
+Drama,Crime,6
+Drama,Fantasy,3
+Drama,Mafia,2
+Drama,Mysterie,3
+Drama,Satire,1
+Drama,Science Fiction,2
+Drama,Serial,2
+Drama,Sitcom,1
+Drama,Superheroe,8
+Drama,Thriller,2
+Fantasy,Action,5
+Fantasy,Adventure,5
+Fantasy,Animation,1
+Fantasy,Comedy,3
+Fantasy,Drama,3
+Fantasy,Romance,1
+Fantasy,Satire,1
+Fantasy,Science Fiction,5
+Fantasy,Superheroe,4
+Mafia,Crime,2
+Mafia,Drama,2
+Mafia,Serial,2
+Mysterie,Action,3
+Mysterie,Adventure,3
+Mysterie,Crime,3
+Mysterie,Drama,3
+Mysterie,Superheroe,2
+Mysterie,Thriller,2
+Romance,Action,1
+Romance,Adventure,1
+Romance,Fantasy,1
+Romance,Science Fiction,1
+Romance,Superheroe,1
+Satire,Action,1
+Satire,Adventure,1
+Satire,Animation,1
+Satire,Comedy,3
+Satire,Cringe,1
+Satire,Drama,1
+Satire,Fantasy,1
+Satire,Sitcom,1
+Satire,Superheroe,1
+Science Fiction,Action,7
+Science Fiction,Adventure,7
+Science Fiction,Animation,1
+Science Fiction,Comedy,3
+Science Fiction,Drama,2
+Science Fiction,Fantasy,5
+Science Fiction,Romance,1
+Science Fiction,Space Western,2
+Science Fiction,Superheroe,4
+Serial,Crime,1
+Serial,Drama,2
+Serial,Mafia,2

@@ -1,0 +1,110 @@
+Title,Type,Genre,Initial Date,End Date,Days Watched,Activation Genre
+The Batman,Movie,Action,07/03/2022,07/03/2022,0,1
+The Batman,Movie,Crime,08/03/2022,08/03/2022,0,1
+The Batman,Movie,Drama,09/03/2022,09/03/2022,0,1
+The Batman,Movie,Adventure,10/03/2022,10/03/2022,0,1
+The Batman,Movie,Superheroe,11/03/2022,11/03/2022,0,1
+The Batman,Movie,Mysterie,12/03/2022,12/03/2022,0,1
+Spiderman No Way Home,Movie,Action,22/12/2021,22/12/2021,0,1
+Spiderman No Way Home,Movie,Comedy,22/12/2021,22/12/2021,0,1
+Spiderman No Way Home,Movie,Science Fiction,22/12/2021,22/12/2021,0,1
+Spiderman No Way Home,Movie,Superheroe,22/12/2021,22/12/2021,0,1
+Spiderman No Way Home,Movie,Fantasy,22/12/2021,22/12/2021,0,1
+Spiderman No Way Home,Movie,Adventure,22/12/2021,22/12/2021,0,1
+Eternals,Movie,Action,04/11/2021,04/11/2021,0,1
+Eternals,Movie,Drama,04/11/2021,04/11/2021,0,1
+Eternals,Movie,Science Fiction,04/11/2021,04/11/2021,0,1
+Eternals,Movie,Superheroe,04/11/2021,04/11/2021,0,1
+Eternals,Movie,Fantasy,04/11/2021,04/11/2021,0,1
+Eternals,Movie,Adventure,04/11/2021,04/11/2021,0,1
+No Time to Die 007,Movie,Action,18/10/2021,18/10/2021,0,1
+No Time to Die 007,Movie,Crime,18/10/2021,18/10/2021,0,1
+No Time to Die 007,Movie,Drama,18/10/2021,18/10/2021,0,1
+No Time to Die 007,Movie,Adventure,18/10/2021,18/10/2021,0,1
+No Time to Die 007,Movie,Thriller,18/10/2021,18/10/2021,0,1
+No Time to Die 007,Movie,Mysterie,18/10/2021,18/10/2021,0,1
+Shang Chi,Movie,Action,02/09/2021,02/09/2021,0,1
+Shang Chi,Movie,Science Fiction,02/09/2021,02/09/2021,0,1
+Shang Chi,Movie,Superheroe,02/09/2021,02/09/2021,0,1
+Shang Chi,Movie,Fantasy,02/09/2021,02/09/2021,0,1
+Shang Chi,Movie,Adventure,02/09/2021,02/09/2021,0,1
+The Suicide Squad,Movie,Action,06/08/2021,06/08/2021,0,1
+The Suicide Squad,Movie,Drama,06/08/2021,06/08/2021,0,1
+The Suicide Squad,Movie,Science Fiction,06/08/2021,06/08/2021,0,1
+The Suicide Squad,Movie,Superheroe,06/08/2021,06/08/2021,0,1
+The Suicide Squad,Movie,Fantasy,06/08/2021,06/08/2021,0,1
+The Suicide Squad,Movie,Comedy,06/08/2021,06/08/2021,0,1
+Black Widow,Movie,Action,06/08/2021,06/08/2021,0,1
+Black Widow,Movie,Crime,06/08/2021,06/08/2021,0,1
+Black Widow,Movie,Drama,06/08/2021,06/08/2021,0,1
+Black Widow,Movie,Adventure,06/08/2021,06/08/2021,0,1
+Black Widow,Movie,Thriller,06/08/2021,06/08/2021,0,1
+Black Widow,Movie,Mysterie,06/08/2021,06/08/2021,0,1
+Black Widow,Movie,Superheroe,06/08/2021,06/08/2021,0,1
+Wanda Vision ,TV Series,Action,15/01/2021,05/03/2021,49,1
+Wanda Vision ,TV Series,Romance,15/01/2021,05/03/2021,49,1
+Wanda Vision ,TV Series,Science Fiction,15/01/2021,05/03/2021,49,1
+Wanda Vision ,TV Series,Superheroe,15/01/2021,05/03/2021,49,1
+Wanda Vision ,TV Series,Fantasy,15/01/2021,05/03/2021,49,1
+Wanda Vision ,TV Series,Adventure,15/01/2021,05/03/2021,49,1
+Mandalorian,TV Series,Space Western,30/10/2020,18/12/2020,49,1
+Mandalorian,TV Series,Science Fiction,30/10/2020,18/12/2020,49,1
+Mandalorian,TV Series,Adventure,30/10/2020,18/12/2020,49,1
+Mandalorian,TV Series,Action,30/10/2020,18/12/2020,49,1
+The Book of Boba Fett,TV Series,Space Western,29/12/2021,09/02/2022,42,1
+The Book of Boba Fett,TV Series,Science Fiction,29/12/2021,09/02/2022,42,1
+The Book of Boba Fett,TV Series,Adventure,29/12/2021,09/02/2022,42,1
+The Book of Boba Fett,TV Series,Action,29/12/2021,09/02/2022,42,1
+The Sopranos,TV Series,Serial,06/08/2021,21/12/2021,137,1
+The Sopranos,TV Series,Drama,06/08/2021,21/12/2021,137,1
+The Sopranos,TV Series,Crime,06/08/2021,21/12/2021,137,1
+The Sopranos,TV Series,Mafia,06/08/2021,21/12/2021,137,1
+Peacemaker,TV Series,Drama,13/01/2022,17/02/2022,35,1
+Peacemaker,TV Series,Action,13/01/2022,17/02/2022,35,1
+Peacemaker,TV Series,Superheroe,13/01/2022,17/02/2022,35,1
+Peacemaker,TV Series,Adventure,13/01/2022,17/02/2022,35,1
+Peacemaker,TV Series,Comedy,13/01/2022,17/02/2022,35,1
+Seinfeld,TV Series,Sitcom,06/07/2020,13/12/2020,160,1
+Seinfeld,TV Series,Comedy,06/07/2020,13/12/2020,160,1
+Mysthic Quest,TV Series,Comedy,07/05/2021,25/06/2021,49,1
+The Boys,TV Series,Superheroe,04/09/2020,09/10/2020,35,1
+The Boys,TV Series,Comedy,04/09/2020,09/10/2020,35,1
+The Boys,TV Series,Action,04/09/2020,09/10/2020,35,1
+The Boys,TV Series,Satire,04/09/2020,09/10/2020,35,1
+The Boys,TV Series,Drama,04/09/2020,09/10/2020,35,1
+The Godfather,Movie,Serial,28/02/2022,28/02/2022,0,1
+The Godfather,Movie,Drama,28/02/2022,28/02/2022,0,1
+The Godfather,Movie,Crime,28/02/2022,28/02/2022,0,1
+The Godfather,Movie,Mafia,28/02/2022,28/02/2022,0,1
+Loki,TV Series,Superheroe,09/06/2021,14/07/2021,35,1
+Loki,TV Series,Drama,09/06/2021,14/07/2021,35,1
+Loki,TV Series,Fantasy,09/06/2021,14/07/2021,35,1
+Daredevil,TV Series,Action,05/01/2022,25/01/2022,20,1
+Daredevil,TV Series,Superheroe,05/01/2022,25/01/2022,20,1
+Daredevil,TV Series,Crime,05/01/2022,25/01/2022,20,1
+Daredevil,TV Series,Drama,05/01/2022,25/01/2022,20,1
+Falcon and the Winter Soldier,TV Series,Action,19/03/2021,03/04/2021,15,1
+Falcon and the Winter Soldier,TV Series,Superheroe,19/03/2021,03/04/2021,15,1
+Falcon and the Winter Soldier,TV Series,Drama,19/03/2021,03/04/2021,15,1
+What if?,TV Series,Superheroe,11/08/2021,06/10/2021,56,1
+What if?,TV Series,Animation,11/08/2021,06/10/2021,56,1
+Disenchantment,TV Series,Adventure,02/02/2022,20/02/2022,18,1
+Disenchantment,TV Series,Satire,02/02/2022,20/02/2022,18,1
+Disenchantment,TV Series,Comedy,02/02/2022,20/02/2022,18,1
+Disenchantment,TV Series,Animation,02/02/2022,20/02/2022,18,1
+Disenchantment,TV Series,Fantasy,02/02/2022,20/02/2022,18,1
+Community,TV Series,Sitcom,05/04/2020,16/06/2020,72,1
+Community,TV Series,Comedy,05/04/2020,16/06/2020,72,1
+Community,TV Series,Drama,05/04/2020,16/06/2020,72,1
+Billions,TV Series,Drama,03/05/2020,14/06/2020,42,1
+Rick and Morty,TV Series,Adventure,20/06/2021,05/09/2021,77,1
+Rick and Morty,TV Series,Comedy,20/06/2021,05/09/2021,77,1
+Rick and Morty,TV Series,Science Fiction,20/06/2021,05/09/2021,77,1
+Rick and Morty,TV Series,Animation,20/06/2021,05/09/2021,77,1
+Hawkeye,TV Series,Crime,24/11/2021,22/12/2021,28,1
+Hawkeye,TV Series,Superheroe,24/11/2021,22/12/2021,28,1
+Hawkeye,TV Series,Action,24/11/2021,22/12/2021,28,1
+It's always sunny in Philadelphia,TV Series,Sitcom,14/07/2020,18/04/2022,643,1
+It's always sunny in Philadelphia,TV Series,Comedy,14/07/2020,18/04/2022,643,1
+It's always sunny in Philadelphia,TV Series,Satire,14/07/2020,18/04/2022,643,1
+It's always sunny in Philadelphia,TV Series,Cringe,14/07/2020,18/04/2022,643,1
